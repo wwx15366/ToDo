@@ -1,4 +1,5 @@
 # ToDo
-Kamil
-22554
-Grupa W1 / C5
+Tomasz Samek
+22861
+wwx15366, grupa cwiczeniowa C5, grupa wykladowa W1
+
